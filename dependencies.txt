@@ -1,0 +1,7 @@
+python-pip
+python-virtualenv
+mongodb
+mongodb-server
+git
+build-essential
+python-dev
